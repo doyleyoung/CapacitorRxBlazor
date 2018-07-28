@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,mCAAE;EACA,KAAK,EAAE,OAAO",
+"sources": ["../../Components/CounterComponent.scss"],
+"names": [],
+"file": "App.css"
+}

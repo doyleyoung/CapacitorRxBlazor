@@ -1,0 +1,17 @@
+{
+  "name": "capacitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^1.0.0-beta.1",
+    "@capacitor/cli": "^1.0.0-beta.1",
+    "@capacitor/core": "^1.0.0-beta.1",
+    "@capacitor/ios": "^1.0.0-beta.1"
+  }
+}
